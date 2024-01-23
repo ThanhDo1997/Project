@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetR92_1 Pin=R92-1
+Added Pin To Net: NetName=NetR92_1 Pin=VR23-2
+Added Net: Name=NetR92_1
+Added Room: Name=SCH

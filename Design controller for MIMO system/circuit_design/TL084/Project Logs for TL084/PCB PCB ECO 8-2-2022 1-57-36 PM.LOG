@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R46 Old Footprint=R1/4W New Footprint=Tro cong suat 5W
+Change Component Comment : Designator=R46 Old Comment=6.8k New Comment=220
+Change component parameters: Designator = "R46" ("R46"); Footprint = "R1/4W"; UniqueID = "\QQKNCBVB" ("\QQKNCBVB")
+Added Room: Name=SCH

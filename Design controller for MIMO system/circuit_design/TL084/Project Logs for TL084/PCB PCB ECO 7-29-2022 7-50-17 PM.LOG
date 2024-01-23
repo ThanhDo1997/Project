@@ -1,0 +1,205 @@
+Removed Member From Class: ClassName=SCH Member=R101
+Change Component Footprint: Designator=D1 Old Footprint=DIODE ZENNER SMD SOD80 New Footprint=DZ0.5A
+Change Component Footprint: Designator=D2 Old Footprint=DIODE ZENNER SMD SOD80 New Footprint=DZ0.5A
+Change Component Footprint: Designator=D5 Old Footprint=DIODE ZENNER SMD SOD80 New Footprint=DZ0.5A
+Change Component Footprint: Designator=D6 Old Footprint=DIODE ZENNER SMD SOD80 New Footprint=DZ0.5A
+Change Component Footprint: Designator=D7 Old Footprint=DIODE ZENNER SMD SOD80 New Footprint=DZ0.5A
+Change Component Footprint: Designator=D8 Old Footprint=DIODE ZENNER SMD SOD80 New Footprint=DZ0.5A
+Change Component Footprint: Designator=D11 Old Footprint=DIODE ZENNER SMD SOD80 New Footprint=DZ0.5A
+Change Component Footprint: Designator=D12 Old Footprint=DIODE ZENNER SMD SOD80 New Footprint=DZ0.5A
+Change Component Footprint: Designator=D14 Old Footprint=DIODE ZENNER SMD SOD80 New Footprint=DZ0.5A
+Change Component Footprint: Designator=D15 Old Footprint=DIODE ZENNER SMD SOD80 New Footprint=DZ0.5A
+Change Component Footprint: Designator=D16 Old Footprint=DIODE ZENNER SMD SOD80 New Footprint=DZ0.5A
+Change Component Footprint: Designator=D17 Old Footprint=DIODE ZENNER SMD SOD80 New Footprint=DZ0.5A
+Change Component Comment : Designator=D8 Old Comment=2.3V New Comment=2V3
+Change Component Comment : Designator=D15 Old Comment=2.3V New Comment=2V3
+Change Component Comment : Designator=D17 Old Comment=2.3V New Comment=2V3
+Change Component Comment : Designator=D1 Old Comment=5.1V New Comment=5V1
+Change Component Comment : Designator=D2 Old Comment=5.1V New Comment=5V1
+Change Component Comment : Designator=D6 Old Comment=5.1V New Comment=5V1
+Change Component Comment : Designator=D7 Old Comment=5.1V New Comment=5V1
+Change Component Comment : Designator=D11 Old Comment=5.1V New Comment=5V1
+Change Component Comment : Designator=D12 Old Comment=5.1V New Comment=5V1
+Change Component Comment : Designator=D5 Old Comment=6.8V New Comment=6V8
+Change Component Comment : Designator=D14 Old Comment=6.8V New Comment=6V8
+Change Component Comment : Designator=D16 Old Comment=6.8V New Comment=6V8
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R21 NewDesignator=R20
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Change Component Designator: OldDesignator=R23 NewDesignator=R22
+Change Component Designator: OldDesignator=R24 NewDesignator=R23
+Change Component Designator: OldDesignator=R25 NewDesignator=R24
+Change Component Designator: OldDesignator=R26 NewDesignator=R25
+Change Component Designator: OldDesignator=R27 NewDesignator=R26
+Change Component Designator: OldDesignator=R28 NewDesignator=R27
+Change Component Designator: OldDesignator=R29 NewDesignator=R28
+Change Component Designator: OldDesignator=R30 NewDesignator=R29
+Change Component Designator: OldDesignator=R31 NewDesignator=R30
+Change Component Designator: OldDesignator=R32 NewDesignator=R31
+Change Component Designator: OldDesignator=R33 NewDesignator=R32
+Change Component Designator: OldDesignator=R34 NewDesignator=R33
+Change Component Designator: OldDesignator=R35 NewDesignator=R34
+Change Component Designator: OldDesignator=R36 NewDesignator=R35
+Change Component Designator: OldDesignator=R37 NewDesignator=R36
+Change Component Designator: OldDesignator=R38 NewDesignator=R37
+Change Component Designator: OldDesignator=R39 NewDesignator=R38
+Change Component Designator: OldDesignator=R40 NewDesignator=R39
+Change Component Designator: OldDesignator=R41 NewDesignator=R40
+Change Component Designator: OldDesignator=R42 NewDesignator=R41
+Change Component Designator: OldDesignator=R43 NewDesignator=R42
+Change Component Designator: OldDesignator=R44 NewDesignator=R43
+Change Component Designator: OldDesignator=R45 NewDesignator=R44
+Change Component Designator: OldDesignator=R46 NewDesignator=R45
+Change Component Designator: OldDesignator=R47 NewDesignator=R46
+Change Component Designator: OldDesignator=R48 NewDesignator=R47
+Change Component Designator: OldDesignator=R49 NewDesignator=R48
+Change Component Designator: OldDesignator=R50 NewDesignator=R49
+Change Component Designator: OldDesignator=R51 NewDesignator=R50
+Change Component Designator: OldDesignator=R52 NewDesignator=R51
+Change Component Designator: OldDesignator=R53 NewDesignator=R52
+Change Component Designator: OldDesignator=R54 NewDesignator=R53
+Change Component Designator: OldDesignator=R55 NewDesignator=R54
+Change Component Designator: OldDesignator=R56 NewDesignator=R55
+Change Component Designator: OldDesignator=R57 NewDesignator=R56
+Change Component Designator: OldDesignator=R58 NewDesignator=R57
+Change Component Designator: OldDesignator=R59 NewDesignator=R58
+Change Component Designator: OldDesignator=R60 NewDesignator=R59
+Change Component Designator: OldDesignator=R61 NewDesignator=R60
+Change Component Designator: OldDesignator=R62 NewDesignator=R61
+Change Component Designator: OldDesignator=R63 NewDesignator=R62
+Change Component Designator: OldDesignator=R64 NewDesignator=R63
+Change Component Designator: OldDesignator=R65 NewDesignator=R64
+Change Component Designator: OldDesignator=R66 NewDesignator=R65
+Change Component Designator: OldDesignator=R67 NewDesignator=R66
+Change Component Designator: OldDesignator=R68 NewDesignator=R67
+Change Component Designator: OldDesignator=R69 NewDesignator=R68
+Change Component Designator: OldDesignator=R70 NewDesignator=R69
+Change Component Designator: OldDesignator=R71 NewDesignator=R70
+Change Component Designator: OldDesignator=R72 NewDesignator=R71
+Change Component Designator: OldDesignator=R73 NewDesignator=R72
+Change Component Designator: OldDesignator=R74 NewDesignator=R73
+Change Component Designator: OldDesignator=R75 NewDesignator=R74
+Change Component Designator: OldDesignator=R76 NewDesignator=R75
+Change Component Designator: OldDesignator=R77 NewDesignator=R76
+Change Component Designator: OldDesignator=R78 NewDesignator=R77
+Change Component Designator: OldDesignator=R79 NewDesignator=R78
+Change Component Designator: OldDesignator=R80 NewDesignator=R79
+Change Component Designator: OldDesignator=R81 NewDesignator=R80
+Change Component Designator: OldDesignator=R82 NewDesignator=R81
+Change Component Designator: OldDesignator=R83 NewDesignator=R82
+Change Component Designator: OldDesignator=R84 NewDesignator=R83
+Change Component Designator: OldDesignator=R85 NewDesignator=R84
+Change Component Designator: OldDesignator=R86 NewDesignator=R85
+Change Component Designator: OldDesignator=R87 NewDesignator=R86
+Change Component Designator: OldDesignator=R88 NewDesignator=R87
+Change Component Designator: OldDesignator=R89 NewDesignator=R88
+Change Component Designator: OldDesignator=R90 NewDesignator=R89
+Change Component Designator: OldDesignator=R91 NewDesignator=R90
+Change Component Designator: OldDesignator=R92 NewDesignator=R91
+Change Component Designator: OldDesignator=R93 NewDesignator=R92
+Change Component Designator: OldDesignator=R94 NewDesignator=R93
+Change Component Designator: OldDesignator=R95 NewDesignator=R94
+Change Component Designator: OldDesignator=R96 NewDesignator=R95
+Change Component Designator: OldDesignator=R97 NewDesignator=R96
+Change Component Designator: OldDesignator=R98 NewDesignator=R97
+Change Component Designator: OldDesignator=R99 NewDesignator=R98
+Change Component Designator: OldDesignator=R100 NewDesignator=R99
+Change Component Designator: OldDesignator=R101 NewDesignator=R100
+Change component parameters: Designator = "D1" ("D1"); Footprint = "DIODE ZENNER SMD SOD80"; UniqueID = "\TUKWYTTN" ("\TUKWYTTN")
+Change component parameters (AddParameter): Name = "Value"; Value = "3v3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "DIODE ZENNER SMD SOD80"; UniqueID = "\XPDGIRNZ" ("\XPDGIRNZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "3v3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "DIODE ZENNER SMD SOD80"; UniqueID = "\ORDQMPBI" ("\ORDQMPBI")
+Change component parameters (AddParameter): Name = "Value"; Value = "3v3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6" ("D6"); Footprint = "DIODE ZENNER SMD SOD80"; UniqueID = "\ZRUJOBKC" ("\ZRUJOBKC")
+Change component parameters (AddParameter): Name = "Value"; Value = "3v3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7" ("D7"); Footprint = "DIODE ZENNER SMD SOD80"; UniqueID = "\SFCSZTTM" ("\SFCSZTTM")
+Change component parameters (AddParameter): Name = "Value"; Value = "3v3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8" ("D8"); Footprint = "DIODE ZENNER SMD SOD80"; UniqueID = "\XHZTICBC" ("\XHZTICBC")
+Change component parameters (AddParameter): Name = "Value"; Value = "3v3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D11" ("D11"); Footprint = "DIODE ZENNER SMD SOD80"; UniqueID = "\IAJTKDIP" ("\IAJTKDIP")
+Change component parameters (AddParameter): Name = "Value"; Value = "3v3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D12" ("D12"); Footprint = "DIODE ZENNER SMD SOD80"; UniqueID = "\SMEZLJSB" ("\SMEZLJSB")
+Change component parameters (AddParameter): Name = "Value"; Value = "3v3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D14" ("D14"); Footprint = "DIODE ZENNER SMD SOD80"; UniqueID = "\UBELXTQU" ("\UBELXTQU")
+Change component parameters (AddParameter): Name = "Value"; Value = "3v3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D15" ("D15"); Footprint = "DIODE ZENNER SMD SOD80"; UniqueID = "\PYVPGUPJ" ("\PYVPGUPJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "3v3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D16" ("D16"); Footprint = "DIODE ZENNER SMD SOD80"; UniqueID = "\UEISPNJO" ("\UEISPNJO")
+Change component parameters (AddParameter): Name = "Value"; Value = "3v3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D17" ("D17"); Footprint = "DIODE ZENNER SMD SOD80"; UniqueID = "\DODSYDSQ" ("\DODSYDSQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "3v3"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR7_2
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetR12_1
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR13_1
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR15_1
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR19_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetR29_2 New Net Name=NetR28_2
+Change Net Name : Old Net Name=NetR32_2 New Net Name=NetR31_2
+Change Net Name : Old Net Name=NetR33_2 New Net Name=NetR32_2
+Change Net Name : Old Net Name=NetR34_2 New Net Name=NetR33_2
+Change Net Name : Old Net Name=NetR35_2 New Net Name=NetR34_2
+Change Net Name : Old Net Name=NetR42_1 New Net Name=NetR41_1
+Change Net Name : Old Net Name=NetR43_1 New Net Name=NetR42_1
+Change Net Name : Old Net Name=NetR44_1 New Net Name=NetR43_1
+Change Net Name : Old Net Name=NetR50_2 New Net Name=NetR49_2
+Change Net Name : Old Net Name=NetR53_1 New Net Name=NetR52_1
+Change Net Name : Old Net Name=NetR53_2 New Net Name=NetR52_2
+Change Net Name : Old Net Name=NetR54_1 New Net Name=NetR53_1
+Change Net Name : Old Net Name=NetR55_1 New Net Name=NetR54_1
+Change Net Name : Old Net Name=NetR56_1 New Net Name=NetR55_1
+Change Net Name : Old Net Name=NetR57_2 New Net Name=NetR56_2
+Change Net Name : Old Net Name=NetR58_2 New Net Name=NetR57_2
+Change Net Name : Old Net Name=NetR61_2 New Net Name=NetR60_2
+Change Net Name : Old Net Name=NetR63_1 New Net Name=NetR62_1
+Change Net Name : Old Net Name=NetR64_1 New Net Name=NetR63_1
+Change Net Name : Old Net Name=NetR65_2 New Net Name=NetR64_2
+Change Net Name : Old Net Name=NetR66_2 New Net Name=NetR65_2
+Change Net Name : Old Net Name=NetR67_2 New Net Name=NetR66_2
+Change Net Name : Old Net Name=NetR70_1 New Net Name=NetR69_1
+Change Net Name : Old Net Name=NetR72_1 New Net Name=NetR71_1
+Change Net Name : Old Net Name=NetR73_1 New Net Name=NetR72_1
+Change Net Name : Old Net Name=NetR76_2 New Net Name=NetR75_2
+Change Net Name : Old Net Name=NetR80_1 New Net Name=NetR79_1
+Change Net Name : Old Net Name=NetR84_1 New Net Name=NetR83_1
+Change Net Name : Old Net Name=NetR86_1 New Net Name=NetR85_1
+Change Net Name : Old Net Name=NetR88_1 New Net Name=NetR87_1
+Change Net Name : Old Net Name=NetR89_1 New Net Name=NetR88_1
+Change Net Name : Old Net Name=NetR91_1 New Net Name=NetR90_1
+Change Net Name : Old Net Name=NetR93_1 New Net Name=NetR92_1
+Change Net Name : Old Net Name=NetR95_2 New Net Name=NetR94_2
+Change Net Name : Old Net Name=NetR96_1 New Net Name=NetR95_1
+Change Net Name : Old Net Name=NetR96_2 New Net Name=NetR95_2
+Change Net Name : Old Net Name=NetR97_1 New Net Name=NetR96_1
+Change Net Name : Old Net Name=NetR98_1 New Net Name=NetR97_1
+Change Net Name : Old Net Name=NetR99_1 New Net Name=NetR98_1
+Change Net Name : Old Net Name=NetR100_2 New Net Name=NetR99_2
+Change Net Name : Old Net Name=NetR101_1 New Net Name=NetR100_1
+Change Net Name : Old Net Name=NetR101_2 New Net Name=NetR100_2
+Added Room: Name=SCH

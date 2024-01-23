@@ -1,0 +1,263 @@
+Removed Pin From Net: NetName=NetC14_2 Pin=RV1-1
+Removed Pin From Net: NetName=GND Pin=RV1-3
+Removed Pin From Net: NetName=NetC17_2 Pin=RV2-1
+Removed Pin From Net: NetName=GND Pin=RV2-3
+Removed Pin From Net: NetName=NetC2_1 Pin=VOL1-1
+Removed Pin From Net: NetName=NetR18_2 Pin=VOL1-2
+Removed Pin From Net: NetName=GND Pin=VOL1-3
+Removed Pin From Net: NetName=NetC3_1 Pin=VOL2-1
+Removed Pin From Net: NetName=NetR19_2 Pin=VOL2-2
+Removed Pin From Net: NetName=GND Pin=VOL2-3
+Removed Pin From Net: NetName=NetC11_1 Pin=VOL3-1
+Removed Pin From Net: NetName=NetR57_2 Pin=VOL3-2
+Removed Pin From Net: NetName=GND Pin=VOL3-3
+Removed Pin From Net: NetName=NetR15_1 Pin=VR3-1
+Removed Pin From Net: NetName=GND Pin=VR3-2
+Removed Pin From Net: NetName=NetR16_1 Pin=VR4-1
+Removed Pin From Net: NetName=GND Pin=VR4-2
+Removed Pin From Net: NetName=+12V Pin=VR5-1
+Removed Pin From Net: NetName=NetR25_1 Pin=VR6-1
+Removed Pin From Net: NetName=A4 Pin=VR6-2
+Removed Pin From Net: NetName=A4 Pin=VR6-3
+Removed Pin From Net: NetName=A1 Pin=VR7-1
+Removed Pin From Net: NetName=A1 Pin=VR7-2
+Removed Pin From Net: NetName=NetR33_2 Pin=VR7-3
+Removed Pin From Net: NetName=A2 Pin=VR8-1
+Removed Pin From Net: NetName=A2 Pin=VR8-2
+Removed Pin From Net: NetName=NetR34_2 Pin=VR8-3
+Removed Pin From Net: NetName=NetC7_1 Pin=VR9-1
+Removed Pin From Net: NetName=GND Pin=VR9-3
+Removed Pin From Net: NetName=NetC8_1 Pin=VR10-1
+Removed Pin From Net: NetName=NetR42_1 Pin=VR10-2
+Removed Pin From Net: NetName=GND Pin=VR10-3
+Removed Pin From Net: NetName=NetC9_1 Pin=VR11-1
+Removed Pin From Net: NetName=NetR43_1 Pin=VR11-2
+Removed Pin From Net: NetName=NetC10_1 Pin=VR12-1
+Removed Pin From Net: NetName=NetC11_1 Pin=VR13-1
+Removed Pin From Net: NetName=NetR53_1 Pin=VR13-2
+Removed Pin From Net: NetName=NetR55_1 Pin=VR14-1
+Removed Pin From Net: NetName=GND Pin=VR14-2
+Removed Pin From Net: NetName=A3 Pin=VR15-1
+Removed Pin From Net: NetName=A3 Pin=VR15-2
+Removed Pin From Net: NetName=NetR66_2 Pin=VR15-3
+Removed Pin From Net: NetName=NetC13_1 Pin=VR16-1
+Removed Pin From Net: NetName=NetR71_1 Pin=VR16-2
+Removed Pin From Net: NetName=NetR95_1 Pin=VR17-1
+Removed Pin From Net: NetName=NetR83_1 Pin=VR17-2
+Removed Pin From Net: NetName=NetR83_1 Pin=VR17-3
+Removed Pin From Net: NetName=PWM5 Pin=VR18-1
+Removed Pin From Net: NetName=GND Pin=VR18-3
+Removed Pin From Net: NetName=NetC26_1 Pin=VR19-1
+Removed Pin From Net: NetName=NetR95_2 Pin=VR19-2
+Removed Pin From Net: NetName=NetR100_1 Pin=VR20-1
+Removed Pin From Net: NetName=NetR90_1 Pin=VR20-2
+Removed Pin From Net: NetName=NetR90_1 Pin=VR20-3
+Removed Pin From Net: NetName=PWM3 Pin=VR21-1
+Removed Pin From Net: NetName=NetC30_1 Pin=VR22-1
+Removed Pin From Net: NetName=NetR100_2 Pin=VR22-2
+Removed Pin From Net: NetName=GND Pin=VR22-3
+Removed Pin From Net: NetName=NetC26_2 Pin=VR23-1
+Removed Pin From Net: NetName=NetC26_1 Pin=VR23-2
+Removed Pin From Net: NetName=NetC26_1 Pin=VR23-3
+Removed Pin From Net: NetName=NetC30_2 Pin=VR24-1
+Removed Pin From Net: NetName=NetC30_1 Pin=VR24-2
+Removed Pin From Net: NetName=NetC30_1 Pin=VR24-3
+Removed Member From Class: ClassName=SCH Member=RV1
+Removed Member From Class: ClassName=SCH Member=RV2
+Removed Member From Class: ClassName=SCH Member=VOL1
+Removed Member From Class: ClassName=SCH Member=VOL2
+Removed Member From Class: ClassName=SCH Member=VOL3
+Change Component Footprint: Designator=VR1 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR2 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR3 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR4 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR5 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR6 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR7 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR8 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR9 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR10 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR11 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR12 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR13 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR14 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR15 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR16 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR17 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR18 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR19 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR20 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR21 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR22 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR23 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Footprint: Designator=VR24 Old Footprint=VOL-S New Footprint=Bien tro tam giac-DIP nam
+Change Component Comment : Designator=VR5 Old Comment=2k New Comment=10K
+Change Component Comment : Designator=VR9 Old Comment=2K New Comment=100K
+Change Component Comment : Designator=VR12 Old Comment=2K New Comment=100K
+Change Component Comment : Designator=VR6 Old Comment=100K New Comment=10K
+Change Component Comment : Designator=VR14 Old Comment=103 New Comment=2K
+Change Component Comment : Designator=VR23 Old Comment=103 New Comment=2K
+Change Component Comment : Designator=VR24 Old Comment=103 New Comment=5K
+Change Component Comment : Designator=VR1 Old Comment=103 New Comment=10K
+Change Component Comment : Designator=VR2 Old Comment=103 New Comment=10K
+Change Component Comment : Designator=VR3 Old Comment=103 New Comment=10K
+Change Component Comment : Designator=VR4 Old Comment=103 New Comment=10K
+Change Component Comment : Designator=VR13 Old Comment=103 New Comment=100K
+Change Component Comment : Designator=VR7 Old Comment=104 New Comment=2K
+Change Component Comment : Designator=VR11 Old Comment=104 New Comment=2K
+Change Component Comment : Designator=VR15 Old Comment=104 New Comment=10K
+Change Component Comment : Designator=VR16 Old Comment=104 New Comment=10K
+Change Component Comment : Designator=VR8 Old Comment=104 New Comment=100K
+Change Component Comment : Designator=VR10 Old Comment=104 New Comment=100K
+Change Component Comment : Designator=VR21 Old Comment=202 New Comment=2K
+Change Component Comment : Designator=VR18 Old Comment=202 New Comment=100K
+Change Component Comment : Designator=VR20 Old Comment=203 New Comment=2K
+Change Component Comment : Designator=VR17 Old Comment=203 New Comment=10K
+Change Component Comment : Designator=VR22 Old Comment=502 New Comment=20K
+Change Component Comment : Designator=VR19 Old Comment=502 New Comment=100K
+Change component parameters: Designator = "VR1" ("VR1"); Footprint = "VOL-S"; UniqueID = "\JCLZWCNF" ("\JCLZWCNF")
+Change component parameters: Designator = "VR2" ("VR2"); Footprint = "VOL-S"; UniqueID = "\EAKVDSWW" ("\EAKVDSWW")
+Change component parameters: Designator = "VR3" ("VR3"); Footprint = "VOL-S"; UniqueID = "\AAGLQQKM" ("\AAGLQQKM")
+Change component parameters: Designator = "VR4" ("VR4"); Footprint = "VOL-S"; UniqueID = "\NVTGQIES" ("\NVTGQIES")
+Change component parameters: Designator = "VR5" ("VR5"); Footprint = "VOL-S"; UniqueID = "\LQRALRXX" ("\LQRALRXX")
+Change component parameters: Designator = "VR6" ("VR6"); Footprint = "VOL-S"; UniqueID = "\AOPXYDBM" ("\AOPXYDBM")
+Change component parameters: Designator = "VR7" ("VR7"); Footprint = "VOL-S"; UniqueID = "\MCFTQDLS" ("\MCFTQDLS")
+Change component parameters: Designator = "VR8" ("VR8"); Footprint = "VOL-S"; UniqueID = "\GYWZPNYY" ("\GYWZPNYY")
+Change component parameters: Designator = "VR9" ("VR9"); Footprint = "VOL-S"; UniqueID = "\KVOOZUZR" ("\KVOOZUZR")
+Change component parameters: Designator = "VR10" ("VR10"); Footprint = "VOL-S"; UniqueID = "\REBENQFT" ("\REBENQFT")
+Change component parameters: Designator = "VR11" ("VR11"); Footprint = "VOL-S"; UniqueID = "\NWLJIHTU" ("\NWLJIHTU")
+Change component parameters: Designator = "VR12" ("VR12"); Footprint = "VOL-S"; UniqueID = "\SYDFFKMP" ("\SYDFFKMP")
+Change component parameters: Designator = "VR13" ("VR13"); Footprint = "VOL-S"; UniqueID = "\QYCWRCOP" ("\QYCWRCOP")
+Change component parameters: Designator = "VR14" ("VR14"); Footprint = "VOL-S"; UniqueID = "\KHGDNLPJ" ("\KHGDNLPJ")
+Change component parameters: Designator = "VR15" ("VR15"); Footprint = "VOL-S"; UniqueID = "\FLMWNJRC" ("\FLMWNJRC")
+Change component parameters: Designator = "VR16" ("VR16"); Footprint = "VOL-S"; UniqueID = "\WDBLWAKP" ("\WDBLWAKP")
+Change component parameters: Designator = "VR17" ("VR17"); Footprint = "VOL-S"; UniqueID = "\JLTEFNOK" ("\JLTEFNOK")
+Change component parameters: Designator = "VR18" ("VR18"); Footprint = "VOL-S"; UniqueID = "\ULWFXIBT" ("\ULWFXIBT")
+Change component parameters: Designator = "VR19" ("VR19"); Footprint = "VOL-S"; UniqueID = "\EZWUIWXN" ("\EZWUIWXN")
+Change component parameters: Designator = "VR20" ("VR20"); Footprint = "VOL-S"; UniqueID = "\OJSMDEEN" ("\OJSMDEEN")
+Change component parameters: Designator = "VR21" ("VR21"); Footprint = "VOL-S"; UniqueID = "\ENXOKVLG" ("\ENXOKVLG")
+Change component parameters: Designator = "VR22" ("VR22"); Footprint = "VOL-S"; UniqueID = "\ELDWCLFM" ("\ELDWCLFM")
+Change component parameters: Designator = "VR23" ("VR23"); Footprint = "VOL-S"; UniqueID = "\VMOWYFHP" ("\VMOWYFHP")
+Change component parameters: Designator = "VR24" ("VR24"); Footprint = "VOL-S"; UniqueID = "\NQYGIBVF" ("\NQYGIBVF")
+Added Component: Designator=VR25(Bien tro tam giac-DIP nam)
+Added Component: Designator=VR26(Bien tro tam giac-DIP nam)
+Added Component: Designator=VR27(Bien tro tam giac-DIP nam)
+Added Component: Designator=VR28(Bien tro tam giac-DIP nam)
+Added Component: Designator=VR29(Bien tro tam giac-DIP nam)
+Added Pin To Net: NetName=NetC2_1 Pin=VR3-1
+Added Pin To Net: NetName=NetR18_2 Pin=VR3-2
+Added Pin To Net: NetName=NetC3_1 Pin=VR4-1
+Added Pin To Net: NetName=NetR19_2 Pin=VR4-2
+Added Pin To Net: NetName=NetR15_1 Pin=VR5-1
+Added Pin To Net: NetName=GND Pin=VR5-2
+Added Pin To Net: NetName=NetR16_1 Pin=VR6-1
+Added Pin To Net: NetName=GND Pin=VR6-2
+Added Pin To Net: NetName=GND Pin=VR6-3
+Added Pin To Net: NetName=+12V Pin=VR7-1
+Added Pin To Net: NetName=GND Pin=VR7-3
+Added Pin To Net: NetName=NetR25_1 Pin=VR8-1
+Added Pin To Net: NetName=A4 Pin=VR8-3
+Added Pin To Net: NetName=A1 Pin=VR9-1
+Added Pin To Net: NetName=A1 Pin=VR9-2
+Added Pin To Net: NetName=NetR33_2 Pin=VR9-3
+Added Pin To Net: NetName=A2 Pin=VR10-1
+Added Pin To Net: NetName=A2 Pin=VR10-2
+Added Pin To Net: NetName=NetR34_2 Pin=VR10-3
+Added Pin To Net: NetName=NetC7_1 Pin=VR11-1
+Added Pin To Net: NetName=NetC8_1 Pin=VR12-1
+Added Pin To Net: NetName=NetR42_1 Pin=VR12-2
+Added Pin To Net: NetName=NetC9_1 Pin=VR13-1
+Added Pin To Net: NetName=NetR43_1 Pin=VR13-2
+Added Pin To Net: NetName=NetC10_1 Pin=VR14-1
+Added Pin To Net: NetName=NetC11_1 Pin=VR15-1
+Added Pin To Net: NetName=NetR53_1 Pin=VR15-2
+Added Pin To Net: NetName=GND Pin=VR15-3
+Added Pin To Net: NetName=NetC11_1 Pin=VR16-1
+Added Pin To Net: NetName=NetR57_2 Pin=VR16-2
+Added Pin To Net: NetName=NetR55_1 Pin=VR17-1
+Added Pin To Net: NetName=GND Pin=VR17-2
+Added Pin To Net: NetName=GND Pin=VR17-3
+Added Pin To Net: NetName=A3 Pin=VR18-1
+Added Pin To Net: NetName=A3 Pin=VR18-2
+Added Pin To Net: NetName=NetR66_2 Pin=VR18-3
+Added Pin To Net: NetName=NetC13_1 Pin=VR19-1
+Added Pin To Net: NetName=NetR71_1 Pin=VR19-2
+Added Pin To Net: NetName=NetC14_2 Pin=VR20-1
+Added Pin To Net: NetName=GND Pin=VR20-3
+Added Pin To Net: NetName=NetC17_2 Pin=VR21-1
+Added Pin To Net: NetName=NetR95_1 Pin=VR22-1
+Added Pin To Net: NetName=NetR83_1 Pin=VR22-2
+Added Pin To Net: NetName=NetR83_1 Pin=VR22-3
+Added Pin To Net: NetName=PWM5 Pin=VR23-1
+Added Pin To Net: NetName=GND Pin=VR23-3
+Added Pin To Net: NetName=NetC26_1 Pin=VR24-1
+Added Pin To Net: NetName=NetR95_2 Pin=VR24-2
+Added Pin To Net: NetName=GND Pin=VR24-3
+Added Pin To Net: NetName=NetR100_1 Pin=VR25-1
+Added Pin To Net: NetName=NetR90_1 Pin=VR25-2
+Added Pin To Net: NetName=NetR90_1 Pin=VR25-3
+Added Pin To Net: NetName=PWM3 Pin=VR26-1
+Added Pin To Net: NetName=GND Pin=VR26-3
+Added Pin To Net: NetName=NetC30_1 Pin=VR27-1
+Added Pin To Net: NetName=NetR100_2 Pin=VR27-2
+Added Pin To Net: NetName=GND Pin=VR27-3
+Added Pin To Net: NetName=NetC26_2 Pin=VR28-1
+Added Pin To Net: NetName=NetC26_1 Pin=VR28-2
+Added Pin To Net: NetName=NetC26_1 Pin=VR28-3
+Added Pin To Net: NetName=NetC30_2 Pin=VR29-1
+Added Pin To Net: NetName=NetC30_1 Pin=VR29-2
+Added Pin To Net: NetName=NetC30_1 Pin=VR29-3
+Added Member To Class: ClassName=SCH Member=Component R1 10.17K
+Added Member To Class: ClassName=SCH Member=Component R3 22k
+Added Member To Class: ClassName=SCH Member=Component R6 100K
+Added Member To Class: ClassName=SCH Member=Component R8 4.7k
+Added Member To Class: ClassName=SCH Member=Component R10 10.17K
+Added Member To Class: ClassName=SCH Member=Component R12 2k7
+Added Member To Class: ClassName=SCH Member=Component R14 68
+Added Member To Class: ClassName=SCH Member=Component R18 10k
+Added Member To Class: ClassName=SCH Member=Component R21 10K
+Added Member To Class: ClassName=SCH Member=Component R23 10K
+Added Member To Class: ClassName=SCH Member=Component R25 47k
+Added Member To Class: ClassName=SCH Member=Component R27 8.2k
+Added Member To Class: ClassName=SCH Member=Component R29 390
+Added Member To Class: ClassName=SCH Member=Component R31 10K
+Added Member To Class: ClassName=SCH Member=Component R33 100K
+Added Member To Class: ClassName=SCH Member=Component R35 680
+Added Member To Class: ClassName=SCH Member=Component R37 100K
+Added Member To Class: ClassName=SCH Member=Component R39 10k
+Added Member To Class: ClassName=SCH Member=Component R41 6.8k
+Added Member To Class: ClassName=SCH Member=Component R43 10k
+Added Member To Class: ClassName=SCH Member=Component R45 10k
+Added Member To Class: ClassName=SCH Member=Component R47 3.3k
+Added Member To Class: ClassName=SCH Member=Component R49 10k
+Added Member To Class: ClassName=SCH Member=Component R51 680
+Added Member To Class: ClassName=SCH Member=Component R53 10.17K
+Added Member To Class: ClassName=SCH Member=Component R55 10.17K
+Added Member To Class: ClassName=SCH Member=Component R57 10k
+Added Member To Class: ClassName=SCH Member=Component R59 10K
+Added Member To Class: ClassName=SCH Member=Component R61 8.2k
+Added Member To Class: ClassName=SCH Member=Component R63 100K
+Added Member To Class: ClassName=SCH Member=Component R65 10K
+Added Member To Class: ClassName=SCH Member=Component R66 100K
+Added Member To Class: ClassName=SCH Member=Component R68 100K
+Added Member To Class: ClassName=SCH Member=Component R70 100K
+Added Member To Class: ClassName=SCH Member=Component R72 100K
+Added Member To Class: ClassName=SCH Member=Component R74 10k
+Added Member To Class: ClassName=SCH Member=Component R76 390
+Added Member To Class: ClassName=SCH Member=Component R78 100K
+Added Member To Class: ClassName=SCH Member=Component R80 100K
+Added Member To Class: ClassName=SCH Member=Component R82 R5W -224
+Added Member To Class: ClassName=SCH Member=Component R86 10k
+Added Member To Class: ClassName=SCH Member=Component R89 R5W -224
+Added Member To Class: ClassName=SCH Member=Component R91 10k
+Added Member To Class: ClassName=SCH Member=Component R93 10k
+Added Member To Class: ClassName=SCH Member=Component R95 10k
+Added Member To Class: ClassName=SCH Member=Component R97 4.7K
+Added Member To Class: ClassName=SCH Member=Component R99 6.8k
+Added Member To Class: ClassName=SCH Member=Component R100 10k
+Added Member To Class: ClassName=SCH Member=Component VR25 20K
+Added Member To Class: ClassName=SCH Member=Component VR26 2K
+Added Member To Class: ClassName=SCH Member=Component VR27 5K
+Added Member To Class: ClassName=SCH Member=Component VR28 10K
+Added Member To Class: ClassName=SCH Member=Component VR29 10K
+Added Room: Name=SCH

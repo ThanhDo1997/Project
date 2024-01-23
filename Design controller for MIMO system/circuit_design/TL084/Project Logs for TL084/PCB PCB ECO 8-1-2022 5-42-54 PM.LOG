@@ -1,0 +1,13 @@
+Added Component: Designator=H1(XH2.54M-2)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001283"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 2P XH2.54-2P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=test Pin=H1-1
+Added Pin To Net: NetName=test Pin=H1-2
+Added Pin To Net: NetName=test Pin=R46-1
+Added Net: Name=test
+Added Member To Class: ClassName=SCH Member=Component H1 Header 2P 2.54 Duc Thang
+Added Room: Name=SCH

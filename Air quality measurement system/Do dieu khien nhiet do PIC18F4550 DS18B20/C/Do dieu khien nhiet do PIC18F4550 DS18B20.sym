@@ -1,0 +1,204 @@
+000     @SCRATCH
+001     @SCRATCH
+001     _RETURN_
+002     @SCRATCH
+003     @SCRATCH
+004     chinh
+005.0   np
+005.1   bct
+006-009 nhiet_do
+00A-00D nhiet_dat_l
+00E-011 nhiet_dat_h
+012-013 ct
+014     doc_bo_nho.h
+014     ds1820_read.temp1
+014     lcd_init.i
+014-017 @FLT.P1
+014-017 @PRINTF_L32D_670FPFPF.P2
+014     @PSTRINGC_670.@SCRATCH1
+015-018 lcd_init.LCD_INIT_STRING
+015     ds1820_read.temp2
+015     doc_bo_nho.l
+015     @PSTRINGC_670.@SCRATCH2
+016     doc_bo_nho.kt
+016-017 ds1820_read.temp3
+017     doc_bo_nho.@SCRATCH1
+018     @PRINTF_L32D_670FPFPF.P1
+018-01B ds1820_read.result
+018-01B @FLT.P1
+019     lcd_init.@SCRATCH1
+019     @PRINTF_L32D_670FPFPF.@SCRATCH1
+01A     @PRINTF_L32D_670FPFPF.@SCRATCH2
+01B     @PRINTF_L32D_670FPFPF.@SCRATCH3
+01C     ghi_1wire.data
+01C     doc_1wire.dem
+01C     tao_tre_quet_nut.i
+01C     @PRINTF_L32D_670FPFPF.@SCRATCH4
+01C     @FLT.@SCRATCH1
+01D     ghi_1wire.dem
+01D-01E tang_gt.so_dat
+01D-01E giam_gt.so_dat
+01D     doc_1wire.dulieu
+01D-01E hien_thi_dat.a
+01D     luu_bo_nho.h
+01D     @PRINTF_L32D_670FPFPF.@SCRATCH5
+01D     quet_nut.@SCRATCH1
+01D     @FLT.@SCRATCH2
+01D     ht_chinh.@SCRATCH1
+01E     luu_bo_nho.l
+01E     @PRINTF_L32D_670FPFPF.@SCRATCH6
+01E     quet_nut.@SCRATCH2
+01F-020 @PRINTF_LU_670.P1
+01F-020 @ITOF.P2
+01F-020 luu_bo_nho.a
+01F-022 @DIVFF.P1
+01F     @PSTRINGCN_670.P2
+01F     @PRINTF_L32D_670FPFPF.@SCRATCH7
+01F     quet_nut.@SCRATCH3
+01F     tang_gt.@SCRATCH1
+01F     giam_gt.@SCRATCH1
+020     @PSTRINGCN_670.@SCRATCH1
+020     @PRINTF_L32D_670FPFPF.@SCRATCH8
+020     tang_gt.@SCRATCH2
+020     giam_gt.@SCRATCH2
+021-022 @DIV1616.P1
+021-024 @FTOSD.P2
+021-024 @DIV3232.P3
+021-024 @SFTOI.P4
+021-024 @MULFF.P5
+021     @PSTRINGCN_670.@SCRATCH2
+021     @PRINTF_LU_670.@SCRATCH1
+022     @PRINTF_LU_670.@SCRATCH2
+023-026 @DIVFF.P1
+023-024 @DIV1616.P2
+023     @PRINTF_LU_670.@SCRATCH3
+024     @PRINTF_LU_670.@SCRATCH4
+025-028 @MULFF.P1
+025-028 @DIV3232.P2
+025     @FTOSD.@SCRATCH1
+025     @PRINTF_LU_670.@SCRATCH5
+025     @DIV1616.@SCRATCH1
+026     @PRINTF_LU_670.@SCRATCH6
+027     @DIVFF.@SCRATCH1
+027     @PRINTF_LU_670.@SCRATCH7
+028     lcd_putc.c
+028     @DIVFF.@SCRATCH2
+029     lcd_gotoxy.x
+029     @delay_ms1.P1
+029     @DIVFF.@SCRATCH3
+029     @MULFF.@SCRATCH1
+029     @DIV3232.@SCRATCH1
+02A     lcd_gotoxy.y
+02A     @DIVFF.@SCRATCH4
+02A     @MULFF.@SCRATCH2
+02A     @DIV3232.@SCRATCH2
+02B     lcd_gotoxy.address
+02B     @DIVFF.@SCRATCH5
+02B     @MULFF.@SCRATCH3
+02B     @DIV3232.@SCRATCH3
+02C     lcd_gotoxy.@SCRATCH1
+02C     @DIVFF.@SCRATCH6
+02C     @DIV3232.@SCRATCH4
+02D     lcd_send_byte.address
+02D     @DIV3232.@SCRATCH5
+02E     lcd_send_byte.n
+02F     lcd_read_byte.low
+02F     lcd_send_byte.@SCRATCH1
+030     lcd_read_byte.high
+030     lcd_send_nibble.n
+031     lcd_read_nibble.n
+031     lcd_read_byte.@SCRATCH1
+032     lcd_read_nibble.@SCRATCH1
+F83     PSP_DATA
+FB4.6   C1OUT
+FB4.7   C2OUT
+FBB     CCP_2_LOW
+FBB     CCP_2
+FBC     CCP_2_HIGH
+FBE     CCP_1
+FBE     CCP_1_LOW
+FBF     CCP_1_HIGH
+FE1-FE2 @READ_PACKED_MEMORY.P1
+FE1-FE2 @WRITE_PACKED_MEMORY.P2
+FE9-FEA @WRITE_PACKED_MEMORY.P1
+FE9-FEA @READ_PACKED_MEMORY.P2
+FE9-FEA @WRITE_PROGRAM_MEMORY.P3
+FE9-FEA @READ_PROGRAM_MEMORY.P4
+FF6-FF8 @WRITE_PROGRAM_MEMORY.P1
+FF6-FF8 @READ_PROGRAM_MEMORY.P2
+
+ROM Allocation:
+000004  @const730.call
+000016  @const732.call
+000026  @const743.call
+00002C  @const758.call
+000034  @delay_ms1
+00005C  lcd_send_nibble
+00009A  lcd_read_nibble
+0000EC  lcd_read_byte
+000136  lcd_send_byte
+00017C  lcd_init
+0001FC  lcd_gotoxy
+00021E  lcd_putc
+00026E  @PSTRINGC_670
+00028E  @ITOF
+0002C4  @DIVFF
+00041E  @MULFF
+000510  @SFTOI
+000548  luu_bo_nho
+000672  doc_bo_nho
+0007D0  onewire_reset
+0007EE  ghi_1wire
+00081A  @DIV1616
+00085C  tang_gt
+000B84  @PRINTF_LU_670
+000C40  @PSTRINGCN_670
+000C60  hien_thi_dat
+000DB0  giam_gt
+001294  ht_chinh
+001390  quet_nut
+0013F4  tao_tre_quet_nut
+001424  doc_1wire
+001454  ds1820_read
+001516  @FTOSD
+001556  @DIV3232
+0015E4  @PRINTF_L32D_670FPFPF
+001768  @FLT
+0017DE  so_sanh
+00185E  @cinit1
+00185E  MAIN
+00188E  @cinit2
+
+Project Directory:
+    E:\project thay cao trung\project\BTL\Do dieu khien nhiet do PIC18F4550 DS18B20\Do dieu khien nhiet do PIC18F4550 DS18B20\C\
+
+Project Files:
+    Do dieu khien nhiet do PIC18F4550 DS18B20.c             [16-Thg7-20 22:52  CRC=EDA7F306]
+    ..\..\..\..\..\..\Program Files (x86)\PICC\Devices\18f4550.h [18-Thg4-14 16:57  CRC=68697302]
+    ..\..\..\..\..\..\Program Files (x86)\PICC\Drivers\lcd.c [19-Thg9-13 15:38  CRC=D1A6378A]
+    1wire.c                                                 [20-Thg3-18 14:42  CRC=87C3CD15]
+    ds1820.c                                                [20-Thg3-18 15:25  CRC=C1DA60A8]
+
+Source signature=33302BF7
+
+Units:
+    Do dieu khien nhiet do PIC18F4550 DS18B20 (main)
+
+Compiler Settings:
+    Processor:      PIC18F4550
+    Pointer Size:   16
+    ADC Range:      0-65535
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    Compile Mode:       CCS5
+
+Output Files:
+    XREF file:   Do dieu khien nhiet do PIC18F4550 DS18B20.xsym
+    Errors:      Do dieu khien nhiet do PIC18F4550 DS18B20.err
+    Ext Symbols: Do dieu khien nhiet do PIC18F4550 DS18B20.esym
+    INHX32:      Do dieu khien nhiet do PIC18F4550 DS18B20.hex
+    Symbols:     Do dieu khien nhiet do PIC18F4550 DS18B20.sym
+    List:        Do dieu khien nhiet do PIC18F4550 DS18B20.lst
+    Debug/COFF:  Do dieu khien nhiet do PIC18F4550 DS18B20.cof
+    Project:     Do dieu khien nhiet do PIC18F4550 DS18B20.ccspjt
